@@ -22,8 +22,8 @@ Installation:
 1. Clone the repository:
 bash
 Copy code
-git clone https://github.com/zavierferodova/Google-Drive-View-Only-PDF-Script-Downloader.git
-2. Open the README file for detailed instructions on how to execute the script.
+git clone https://github.com/ohansfav/Google-Drive-View-Only-PDF-Script-Downloader/blob/main/script.js
+3. Open the README file for detailed instructions on how to execute the script.
 Disclaimer:
 
 This script is intended for educational purposes and personal use only. Please ensure that you have the necessary permissions to download the files you access. Misuse of this tool may result in violations of Google Drive’s terms of service.
